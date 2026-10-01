@@ -3,7 +3,7 @@
 ## Team
 
 - Student A: Caden Paul Wisinski
-- Student B:
+- Student B: G
 
 ## Branch Work
 
